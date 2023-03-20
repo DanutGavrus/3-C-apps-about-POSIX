@@ -1,5 +1,5 @@
 # Linux POSIX Projects
-These projects were made for POSIX and implement the following:
+These projects are made for POSIX and implement the following:
 ```
 -Listing directory contents.
 -Identifying and parsing section files.
