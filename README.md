@@ -35,7 +35,7 @@ In order to manually test any project you need to:
 ```
 
 ## Python Test Scores
-Each project was tested with a similar python file. Below I have attached the results of those tests.
+Each project was tested with a similar python file. Below I have attached the results of those passed tests.
 ###### File System Module
 ![File System Module](https://user-images.githubusercontent.com/56603839/226363422-cb9f07a4-c0db-4cf2-bc8d-8ee6296d4693.png)
 ###### Processes, Threads and Synchronization
