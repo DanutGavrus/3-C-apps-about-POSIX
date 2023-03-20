@@ -1,5 +1,5 @@
 # File System Module
-This project is made in Linux using POSIX and implements the following as described in the .pdf file:
+This project is made for POSIX and implements the following as described in the .pdf file:
 ```
 -Listing directory contents(Chapter 2.3).
 -Identifying and parsing section files(Chapter 2.4).
